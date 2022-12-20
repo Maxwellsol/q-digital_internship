@@ -25,3 +25,7 @@ https://www.sololearn.com/certificates/CT-MBG7WK0W
 php задача 6
 
 https://github.com/Maxwellsol/TaskList
+
+ооп задача 7
+
+https://github.com/Maxwellsol/task7
