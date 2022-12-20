@@ -21,3 +21,7 @@ https://www.sololearn.com/certificates/CT-MBG7WK0W
 
 
 ![cert-CT-MBG7WK0W](https://user-images.githubusercontent.com/45456916/207577769-3b889734-f0ef-4cee-8dab-08e24242c171.jpg)
+
+php задача 6
+
+https://github.com/Maxwellsol/TaskList
